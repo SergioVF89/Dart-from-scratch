@@ -93,7 +93,6 @@ class Challenge8 {
   }
 }
 
-// Suponiendo que la clase Fraccion ya fue implementada en Dart
 
 class Challenge9 {
   void run() {

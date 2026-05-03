@@ -83,7 +83,7 @@ void main() {
         default:
           print("Presiona una tecla para continuar...");
           stdin
-              .readLineSync(); // Esto se usa en lugar de Console.ReadKey() en Dart.
+              .readLineSync(); 
           menu.MostrarMenu();
           break;
       }
